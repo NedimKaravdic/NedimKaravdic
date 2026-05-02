@@ -1,6 +1,5 @@
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=NedimKaravdic&color=0e75b6&style=flat-square&label=Profile+Views)
 
 # Hey, I'm Nedim 👋
 
