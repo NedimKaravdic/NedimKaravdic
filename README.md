@@ -4,46 +4,12 @@
 
 # Hey, I'm Nedim 👋
 
-iOS & AI engineer based in Bosnia. I build apps that people actually use. Six years in, across mobile, full-stack, and now agentic AI.
+iOS & AI engineer based in Bosnia. I build apps that people actually use — from fitness tools for wheelchair users to AI-powered recipe apps for Ramadan. Six years in, across mobile, full-stack, and now agentic AI.
 
 Currently focused on remote work and building products that solve real niche problems.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nedim-karavdic-5783a31b5)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/NedimKaravdic)
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=NedimKaravdic&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8)
-
-</div>
-
----
-
-## 📊 Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NedimKaravdic&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-&nbsp;&nbsp;
-[![GitHub Streak](https://streak-stats.demolab.com?user=NedimKaravdic&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NedimKaravdic&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-</div>
-
----
-
-## 🐍 Contributions
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/NedimKaravdic/NedimKaravdic/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -194,40 +160,3 @@ I work well in small teams, move fast, and I care about the product beyond just 
 ---
 
 *Building things that matter for people who are often overlooked. If that resonates, let's talk.*
-
----
-
-<details>
-<summary>⚙️ Snake animation setup (click to expand)</summary>
-
-Create this file in your repo: `.github/workflows/snake.yml`
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: NedimKaravdic
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Then go to **Actions → Generate Snake → Run workflow** to trigger it the first time.
-
-</details>
