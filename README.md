@@ -13,6 +13,17 @@ Currently focused on remote work and building products that solve real niche pro
 
 </div>
 
+
+## 🐍 Contributions
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/NedimKaravdic/NedimKaravdic/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
 ---
 
 ## 🛠 What I Work With
